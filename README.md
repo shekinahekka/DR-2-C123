@@ -1,1 +1,1 @@
-# DR-2-C123
+Working code for digit recognition
